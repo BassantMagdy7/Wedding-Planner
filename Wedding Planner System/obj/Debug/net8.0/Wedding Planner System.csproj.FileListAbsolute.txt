@@ -1,0 +1,342 @@
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\appsettings.Development.json
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\appsettings.json
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.exe
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.deps.json
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.runtimeconfig.json
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.pdb
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\AutoMapper.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Azure.Core.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Azure.Identity.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Hangfire.Core.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Hangfire.NetCore.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Hangfire.SqlServer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Humanizer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\SendGrid.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\StarkbankEcdsa.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.CodeDom.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Business Logic Layer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Data Access Layer.dll
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Business Logic Layer.pdb
+E:\Final Widding PLanner\Wedding Planner System\bin\Debug\net8.0\Data Access Layer.pdb
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.AssemblyReference.cache
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.AssemblyInfoInputs.cache
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.AssemblyInfo.cs
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.CoreCompileInputs.cache
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.MvcApplicationPartsAssemblyInfo.cs
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.sourcelink.json
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.build.json
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.development.json
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.Wedding Planner System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.build.Wedding Planner System.props
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wedding Planner System.props
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wedding Planner System.props
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\scopedcss\bundle\Wedding Planner System.styles.css
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.CopyComplete
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.dll
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\refint\Wedding Planner System.dll
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.pdb
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.genruntimeconfig.cache
+E:\Final Widding PLanner\Wedding Planner System\obj\Debug\net8.0\ref\Wedding Planner System.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\appsettings.json
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\appsettings.Development.json
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.exe
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.deps.json
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.runtimeconfig.json
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Wedding Planner System.pdb
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\AutoMapper.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Azure.Core.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Azure.Identity.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\CloudinaryDotNet.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Hangfire.AspNetCore.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Hangfire.Core.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Hangfire.NetCore.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Hangfire.SqlServer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Humanizer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\SendGrid.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\StarkbankEcdsa.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.CodeDom.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Memory.Data.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ca\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\de\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\es\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fa\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fr\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\nb\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\nl\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-PT\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\sv\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\tr-TR\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-TW\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh\Hangfire.Core.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Business Logic Layer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Data Access Layer.dll
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Business Logic Layer.pdb
+E:\projects\Wedding Planner\Wedding Planner System\bin\Debug\net8.0\Data Access Layer.pdb
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.AssemblyReference.cache
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.AssemblyInfoInputs.cache
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.AssemblyInfo.cs
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.CoreCompileInputs.cache
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.sourcelink.json
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.build.json
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.development.json
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.Wedding Planner System.Microsoft.AspNetCore.StaticWebAssets.props
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.build.Wedding Planner System.props
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wedding Planner System.props
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wedding Planner System.props
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\staticwebassets.pack.json
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\scopedcss\bundle\Wedding Planner System.styles.css
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.csproj.CopyComplete
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.dll
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\refint\Wedding Planner System.dll
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.pdb
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\Wedding Planner System.genruntimeconfig.cache
+E:\projects\Wedding Planner\Wedding Planner System\obj\Debug\net8.0\ref\Wedding Planner System.dll

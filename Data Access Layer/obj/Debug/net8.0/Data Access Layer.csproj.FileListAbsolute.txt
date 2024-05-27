@@ -1,0 +1,30 @@
+E:\Final Widding PLanner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.deps.json
+E:\Final Widding PLanner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.runtimeconfig.json
+E:\Final Widding PLanner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.dll
+E:\Final Widding PLanner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.pdb
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.AssemblyReference.cache
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfoInputs.cache
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfo.cs
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.CoreCompileInputs.cache
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.sourcelink.json
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.dll
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\refint\Data Access Layer.dll
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.pdb
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.genruntimeconfig.cache
+E:\Final Widding PLanner\Data Access Layer\obj\Debug\net8.0\ref\Data Access Layer.dll
+E:\projects\Wedding Planner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.deps.json
+E:\projects\Wedding Planner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.runtimeconfig.json
+E:\projects\Wedding Planner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.dll
+E:\projects\Wedding Planner\Data Access Layer\bin\Debug\net8.0\Data Access Layer.pdb
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.AssemblyReference.cache
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfoInputs.cache
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.AssemblyInfo.cs
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.csproj.CoreCompileInputs.cache
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.sourcelink.json
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.dll
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\refint\Data Access Layer.dll
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.pdb
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\Data Access Layer.genruntimeconfig.cache
+E:\projects\Wedding Planner\Data Access Layer\obj\Debug\net8.0\ref\Data Access Layer.dll

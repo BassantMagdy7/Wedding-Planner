@@ -1,0 +1,32 @@
+E:\Final Widding PLanner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.deps.json
+E:\Final Widding PLanner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.dll
+E:\Final Widding PLanner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.pdb
+E:\Final Widding PLanner\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll
+E:\Final Widding PLanner\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.pdb
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.AssemblyReference.cache
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfoInputs.cache
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfo.cs
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CoreCompileInputs.cache
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.sourcelink.json
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CopyComplete
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.dll
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\refint\Business Logic Layer.dll
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.pdb
+E:\Final Widding PLanner\Business Logic Layer\obj\Debug\net8.0\ref\Business Logic Layer.dll
+E:\projects\Wedding Planner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.deps.json
+E:\projects\Wedding Planner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.dll
+E:\projects\Wedding Planner\Business Logic Layer\bin\Debug\net8.0\Business Logic Layer.pdb
+E:\projects\Wedding Planner\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.dll
+E:\projects\Wedding Planner\Business Logic Layer\bin\Debug\net8.0\Data Access Layer.pdb
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.AssemblyReference.cache
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfoInputs.cache
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.AssemblyInfo.cs
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CoreCompileInputs.cache
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.sourcelink.json
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.csproj.CopyComplete
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.dll
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\refint\Business Logic Layer.dll
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\Business Logic Layer.pdb
+E:\projects\Wedding Planner\Business Logic Layer\obj\Debug\net8.0\ref\Business Logic Layer.dll
